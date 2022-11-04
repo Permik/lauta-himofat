@@ -1,0 +1,14 @@
+/* ==UserStyle==
+@name         Lauta himofat
+@namespace    Permik
+@version      1.0.0
+@license      CC-BY-SA-4.0
+@author       Permik
+@updateURL    https://raw.githubusercontent.com/Permik/lauta-himofat/main/lauta-himofat.user.css
+@homepageURL  https://github.com/Permik/lauta-himofat
+==/UserStyle== */
+@-moz-document domain("ylilauta.org") {
+  body{
+    max-width: initial;
+  }
+}
