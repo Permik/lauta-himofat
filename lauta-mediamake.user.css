@@ -1,0 +1,15 @@
+/* ==UserStyle==
+@name         Lauta mediamake
+@namespace    Permik
+@version      1.0.0
+@license      CC-BY-SA-4.0
+@author       Permik
+@description  Vaatii Chrome 105 tai uudemman
+@updateURL    https://raw.githubusercontent.com/Permik/lauta-himofat/main/lauta-mediamake.user.css
+@homepageURL  https://github.com/Permik/lauta-himofat
+==/UserStyle== */
+@-moz-document domain("ylilauta.org") {
+  div[class="post"]:not(:has(figure)) {
+    display: none;
+  }
+}
