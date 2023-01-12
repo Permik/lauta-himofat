@@ -9,7 +9,9 @@ Nykyään sisältää myös muita user-stylejä, kovan kysynnän vuoksi.
 1. Asenna stylus https://github.com/openstyles/stylus
 2. Napauttele haluamasi userstylet auki
  * https://github.com/Permik/lauta-himofat/raw/main/lauta-himofat.user.css (Tekee sivusta himopaksun)
- * https://github.com/Permik/lauta-himofat/raw/main/lauta-mediamake.user.css (Piilottaa postaukset, jotka pelkkää tekstiä)
+ * https://github.com/Permik/lauta-himofat/raw/main/lauta-mediamake.user.css (Piilottaa vastaukset, jotka pelkkää tekstiä)
+ * https://github.com/Permik/lauta-himofat/raw/main/lauta-hide-niminyymi-reply.user.css (Piilottaa vastaukset, jotka niminyymien tekemiä)
+ * https://github.com/Permik/lauta-himofat/raw/main/lauta-hide-niminyymi-post.user.css (Piilottaa postaukset, jotka niminyymien tekemiä)
 3. Paina "Install"-näppäintä.
 
 **Huomaa!**  
