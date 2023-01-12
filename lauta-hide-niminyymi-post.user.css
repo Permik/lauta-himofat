@@ -1,0 +1,11 @@
+div[class="post op-post op"]:has(span.name) {
+    overflow: hidden;
+    height:100px;
+}
+div[class="post op-post op"]:has(span.name)::before {
+    height:100px;
+    content: "Postaus oli niminyymin";
+    display:block;
+    text-align:center;
+    font-size:xxx-large;
+}
